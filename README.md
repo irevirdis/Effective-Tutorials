@@ -1,2 +1,2 @@
 # Tutorials
-Tutorials for the code
+Tutorials for the code.
